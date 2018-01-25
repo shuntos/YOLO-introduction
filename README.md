@@ -9,10 +9,8 @@ Detection is a more complex problem than classification, which can also recogniz
 
 
 YOLO is a clever neural network for doing object detection in real-time.
+![alt text](data/output.jpg "input image")
 
-In this blog post I’ll describe what it took to get the “tiny” version of YOLOv2 running on iOS using Metal Performance Shaders.
-
-Before you continue, make sure to watch the awesome YOLOv2 trailer. 😎
 
 
 How YOLO works
